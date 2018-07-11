@@ -1,0 +1,23 @@
+{
+  "name": "js-arr-util",
+  "version": "1.0.0",
+  "description": "The collection of javascript arrays helper functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szholdiyarov/js-arr-util.git"
+  },
+  "keywords": [
+    "js",
+    "array"
+  ],
+  "author": "Sanzhar Zholdiyarov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szholdiyarov/js-arr-util/issues"
+  },
+  "homepage": "https://github.com/szholdiyarov/js-arr-util#readme"
+}
